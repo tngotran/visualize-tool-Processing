@@ -1,3 +1,6 @@
+I modified code from this library to my style
+
+
 RealtimePlotter
 ===============
 Debugging sensors on a microprocessor can be a hassle and the most used approach is to output the sensor values to a serial monitor. I made a realtime plotting tool which is a better and more visual way of doing the same thing.
