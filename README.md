@@ -1,4 +1,7 @@
-I modified code from this library to my style
+I modified code from this library to my style.
+
+Details of changes
+https://tngotran.wordpress.com/2017/02/28/processing-and-control-ip5-library/
 
 
 RealtimePlotter
