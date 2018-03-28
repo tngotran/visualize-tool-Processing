@@ -1,0 +1,4 @@
+put this code on arduino, connect with computer
+this arduino code send a series of data to computer and Processing visual program on computer will draw it
+
+note: check for speed of communication line, that is updating speed of Processing software

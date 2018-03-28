@@ -1,0 +1,4 @@
+processing code
+user the Processing programe to open this code,
+
+this code receive data from uart port, e.g. from arduino or some sensor then draw it on computer screen
